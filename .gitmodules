@@ -1,0 +1,3 @@
+[submodule "CoreCityOS"]
+	path = CoreCityOS
+	url = https://github.com/cityos/CoreCityOS.git
